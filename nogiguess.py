@@ -1,6 +1,9 @@
 #!usr/bin/env/python
 #-*- coding=utf 8 -*-
 
+#This is a very simple guess game.
+#I may add hints to it sometime.
+
 import pandas as pd
 import sys
 import random
